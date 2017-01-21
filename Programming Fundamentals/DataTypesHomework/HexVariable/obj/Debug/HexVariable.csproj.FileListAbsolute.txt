@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\HexVariable\bin\Debug\HexVariable.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\HexVariable\bin\Debug\HexVariable.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\HexVariable\bin\Debug\HexVariable.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\HexVariable\obj\Debug\HexVariable.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\HexVariable\obj\Debug\HexVariable.pdb

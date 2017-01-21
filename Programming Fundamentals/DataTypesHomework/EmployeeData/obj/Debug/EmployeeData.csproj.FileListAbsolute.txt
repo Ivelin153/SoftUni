@@ -1,0 +1,6 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\EmployeeData\bin\Debug\EmployeeData.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\EmployeeData\bin\Debug\EmployeeData.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\EmployeeData\bin\Debug\EmployeeData.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\EmployeeData\obj\Debug\EmployeeData.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\EmployeeData\obj\Debug\EmployeeData.pdb

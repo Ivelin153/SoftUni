@@ -1,0 +1,6 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ConsoleApplication2\obj\Debug\intDataTypes.csprojResolveAssemblyReference.cache
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

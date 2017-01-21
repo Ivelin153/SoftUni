@@ -1,0 +1,6 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache

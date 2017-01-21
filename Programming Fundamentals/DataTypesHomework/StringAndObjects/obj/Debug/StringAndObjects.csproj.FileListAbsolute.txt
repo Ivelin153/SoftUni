@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\StringAndObjects\bin\Debug\StringAndObjects.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\StringAndObjects\bin\Debug\StringAndObjects.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\StringAndObjects\obj\Debug\StringAndObjects.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\StringAndObjects\obj\Debug\StringAndObjects.pdb

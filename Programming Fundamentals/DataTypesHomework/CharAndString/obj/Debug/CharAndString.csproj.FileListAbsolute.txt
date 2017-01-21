@@ -1,0 +1,1 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesHomework\CharAndString\bin\Debug\CharAndString.exe.config
