@@ -1,0 +1,5 @@
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\IntToHexAndBinary\bin\Debug\IntToHexAndBinary.exe.config
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\IntToHexAndBinary\bin\Debug\IntToHexAndBinary.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\IntToHexAndBinary\bin\Debug\IntToHexAndBinary.pdb
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\IntToHexAndBinary\obj\Debug\IntToHexAndBinary.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\IntToHexAndBinary\obj\Debug\IntToHexAndBinary.pdb

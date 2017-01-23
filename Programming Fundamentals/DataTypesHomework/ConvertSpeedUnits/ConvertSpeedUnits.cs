@@ -16,9 +16,9 @@ namespace ConvertSpeedUnits
             float speedInKmPerHour = speedInMetersPerSecond * 3600 / 1000;
             //float speedInKmPerHour = (distanceInMeters / 1000) / (seconds / 360 + minutes / 60 + hours);
             float speedInMilesPerHour = distanceInMiles / (seconds / 3600 + minutes / 60 + hours);
-            Console.WriteLine("{0:f7}", speedInMetersPerSecond);
-            Console.WriteLine("{0:f7}", speedInKmPerHour);
-            Console.WriteLine("{0:f7}", speedInMilesPerHour);
+            Console.WriteLine("{0:f7}", speedInMetersPerSecond.ToString());
+            Console.WriteLine("{0:f7}", speedInKmPerHour.ToString());
+            Console.WriteLine("{0:f7}", speedInMilesPerHour.ToString());
         }
     }
 }

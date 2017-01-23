@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\TriplesOfLetter\bin\Debug\TriplesOfLetter.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\TriplesOfLetter\bin\Debug\TriplesOfLetter.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\TriplesOfLetter\bin\Debug\TriplesOfLetter.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\TriplesOfLetter\obj\Debug\TriplesOfLetter.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\TriplesOfLetter\obj\Debug\TriplesOfLetter.pdb

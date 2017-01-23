@@ -1,0 +1,6 @@
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.exe.config
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.pdb
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.csprojResolveAssemblyReference.cache
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.pdb

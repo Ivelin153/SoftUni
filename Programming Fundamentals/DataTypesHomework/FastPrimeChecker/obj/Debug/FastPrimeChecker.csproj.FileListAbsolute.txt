@@ -1,0 +1,1 @@
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe.config

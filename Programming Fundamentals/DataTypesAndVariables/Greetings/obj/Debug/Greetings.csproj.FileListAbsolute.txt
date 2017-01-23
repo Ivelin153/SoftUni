@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\Greetings\bin\Debug\Greetings.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\Greetings\bin\Debug\Greetings.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\Greetings\bin\Debug\Greetings.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\Greetings\obj\Debug\Greetings.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\Greetings\obj\Debug\Greetings.pdb

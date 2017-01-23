@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

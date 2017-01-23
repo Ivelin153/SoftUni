@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\RefactorPyramidVolume.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\RefactorPyramidVolume.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\RefactorPyramidVolume.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\RefactorPyramidVolume.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\RefactorPyramidVolume.pdb

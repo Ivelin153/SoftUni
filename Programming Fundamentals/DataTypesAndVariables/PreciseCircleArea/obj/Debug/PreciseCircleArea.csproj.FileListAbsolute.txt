@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\PreciseCircleArea\bin\Debug\PreciseCircleArea.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\PreciseCircleArea\bin\Debug\PreciseCircleArea.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\PreciseCircleArea\bin\Debug\PreciseCircleArea.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\PreciseCircleArea\obj\Debug\PreciseCircleArea.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\DataTypesAndVariables\PreciseCircleArea\obj\Debug\PreciseCircleArea.pdb

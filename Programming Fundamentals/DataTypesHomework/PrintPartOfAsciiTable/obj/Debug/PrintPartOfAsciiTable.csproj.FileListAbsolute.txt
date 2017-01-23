@@ -1,0 +1,6 @@
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\PrintPartOfAsciiTable\bin\Debug\PrintPartOfAsciiTable.exe.config
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\PrintPartOfAsciiTable\bin\Debug\PrintPartOfAsciiTable.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\PrintPartOfAsciiTable\bin\Debug\PrintPartOfAsciiTable.pdb
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\PrintPartOfAsciiTable\obj\Debug\PrintPartOfAsciiTable.csprojResolveAssemblyReference.cache
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\PrintPartOfAsciiTable\obj\Debug\PrintPartOfAsciiTable.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\PrintPartOfAsciiTable\obj\Debug\PrintPartOfAsciiTable.pdb

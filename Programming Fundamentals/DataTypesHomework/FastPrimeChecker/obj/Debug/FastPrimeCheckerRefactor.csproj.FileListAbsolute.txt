@@ -1,0 +1,5 @@
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe.config
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\FastPrimeChecker\bin\Debug\FastPrimeChecker.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\FastPrimeChecker\bin\Debug\FastPrimeChecker.pdb
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\FastPrimeChecker\obj\Debug\FastPrimeChecker.exe
+C:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DataTypesHomework\FastPrimeChecker\obj\Debug\FastPrimeChecker.pdb
