@@ -18,24 +18,24 @@ namespace MasterNumber
 
         public static bool FindSymetricNumbers(int numb)
         {
-            var toString = numb.ToString();
-            string reversed = string.Empty;
+            int temp, remainder, reversed = 0;
+            temp = numb;
 
-            foreach (char ch in toString)
+            while (numb > 0)
             {
-                reversed = ch + reversed;
+                remainder = numb % 10;
+                reversed = reversed * 10 + remainder;
+                numb /= 10;
+
             }
 
-            var reversedNumber = Convert.ToInt32(reversed);
-
-            if (reversedNumber == numb)
+            if (temp == reversed)
             {
                 return true;
             }
-            else
-            {
-                return false;
-            }
+
+            return false;
+
         }
 
         public static bool SumOfDigits(int numb)
@@ -52,11 +52,8 @@ namespace MasterNumber
             {
                 return true;
             }
+            return false;
 
-            else
-            {
-                return false;
-            }
         }
 
         public static bool EvenDigit(int numb)
@@ -79,12 +76,10 @@ namespace MasterNumber
                 return true;
             }
 
-            else
-            {
-                return false;
-            }
+            return false;
         }
     }
 }
+
 
 
