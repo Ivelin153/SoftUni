@@ -1,0 +1,6 @@
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MasterNumber\bin\Debug\MasterNumber.exe.config
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MasterNumber\bin\Debug\MasterNumber.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MasterNumber\bin\Debug\MasterNumber.pdb
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MasterNumber\obj\Debug\MasterNumber.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MasterNumber\obj\Debug\MasterNumber.pdb
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache

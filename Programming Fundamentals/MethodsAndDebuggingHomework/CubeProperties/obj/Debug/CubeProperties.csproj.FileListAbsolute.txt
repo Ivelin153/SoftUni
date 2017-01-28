@@ -1,0 +1,6 @@
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CubeProperties\bin\Debug\CubeProperties.exe.config
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CubeProperties\bin\Debug\CubeProperties.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CubeProperties\bin\Debug\CubeProperties.pdb
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CubeProperties\obj\Debug\CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CubeProperties\obj\Debug\CubeProperties.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CubeProperties\obj\Debug\CubeProperties.pdb

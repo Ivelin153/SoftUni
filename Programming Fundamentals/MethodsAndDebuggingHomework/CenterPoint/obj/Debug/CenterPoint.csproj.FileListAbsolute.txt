@@ -1,0 +1,6 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CenterPoint\bin\Debug\CenterPoint.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CenterPoint\bin\Debug\CenterPoint.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CenterPoint\bin\Debug\CenterPoint.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CenterPoint\obj\Debug\CenterPoint.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CenterPoint\obj\Debug\CenterPoint.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\CenterPoint\obj\Debug\CenterPoint.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

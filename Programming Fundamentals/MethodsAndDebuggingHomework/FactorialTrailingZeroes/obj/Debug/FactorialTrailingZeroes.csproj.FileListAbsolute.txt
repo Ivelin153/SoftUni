@@ -1,0 +1,5 @@
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb

@@ -1,0 +1,6 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\HelloName\bin\Debug\HelloName.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\HelloName\bin\Debug\HelloName.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\HelloName\bin\Debug\HelloName.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\HelloName\obj\Debug\HelloName.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\HelloName\obj\Debug\HelloName.pdb

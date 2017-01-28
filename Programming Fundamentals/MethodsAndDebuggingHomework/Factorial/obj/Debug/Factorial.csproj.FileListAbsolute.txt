@@ -1,0 +1,6 @@
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\Factorial\bin\Debug\Factorial.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\Factorial\obj\Debug\Factorial.exe
+C:\Users\Ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\Factorial\obj\Debug\Factorial.pdb

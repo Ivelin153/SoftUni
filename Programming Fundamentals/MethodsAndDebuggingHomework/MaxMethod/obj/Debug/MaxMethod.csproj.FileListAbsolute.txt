@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MaxMethod\bin\Debug\MaxMethod.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MaxMethod\bin\Debug\MaxMethod.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MaxMethod\bin\Debug\MaxMethod.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MaxMethod\obj\Debug\MaxMethod.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\MaxMethod\obj\Debug\MaxMethod.pdb

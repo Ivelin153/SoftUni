@@ -1,0 +1,5 @@
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\PrimeChecker\bin\Debug\PrimeChecker.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\PrimeChecker\bin\Debug\PrimeChecker.pdb
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\PrimeChecker\obj\Debug\PrimeChecker.exe
+c:\users\ivelin\documents\visual studio 2015\Projects\MethodsAndDebuggingHomework\PrimeChecker\obj\Debug\PrimeChecker.pdb
