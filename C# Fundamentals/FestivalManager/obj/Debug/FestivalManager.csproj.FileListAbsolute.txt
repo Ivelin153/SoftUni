@@ -1,0 +1,7 @@
+C:\Users\Ivelin\Documents\Visual Studio 2017\Projects\Exam_OOP(.NET Framework)\FestivalManager\obj\Debug\FestivalManager.csprojResolveAssemblyReference.cache
+C:\Users\Ivelin\Documents\Visual Studio 2017\Projects\Exam_OOP(.NET Framework)\FestivalManager\obj\Debug\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\Ivelin\Documents\Visual Studio 2017\Projects\Exam_OOP(.NET Framework)\FestivalManager\bin\Debug\FestivalManager.exe.config
+C:\Users\Ivelin\Documents\Visual Studio 2017\Projects\Exam_OOP(.NET Framework)\FestivalManager\bin\Debug\FestivalManager.exe
+C:\Users\Ivelin\Documents\Visual Studio 2017\Projects\Exam_OOP(.NET Framework)\FestivalManager\bin\Debug\FestivalManager.pdb
+C:\Users\Ivelin\Documents\Visual Studio 2017\Projects\Exam_OOP(.NET Framework)\FestivalManager\obj\Debug\FestivalManager.exe
+C:\Users\Ivelin\Documents\Visual Studio 2017\Projects\Exam_OOP(.NET Framework)\FestivalManager\obj\Debug\FestivalManager.pdb
