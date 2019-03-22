@@ -2,6 +2,6 @@
 {
     public class Configuration
     {
-        public const string connectionString = "Server=DESKTOP-ALVILK7;Database=StudentSystem;Integrated Security = True;";
+        public const string connectionString = "Server=.;Database=StudentSystem;Integrated Security = True;";
     }
 }
